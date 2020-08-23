@@ -3,15 +3,16 @@ title: Refactoring my life
 author: Saheel Wagh
 date: 2020-08-21
 hero: ./images/hero.jpg
-excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
+excerpt: Coming out as an addict and how I intend to achieve success.
 ---
 
-Intro.
+I recently realised that I had become an addict. To what ? How do I plan to recover ? What's the purpose behind starting this blog ? read on to find out
 
 
-## Coming out as an addict
-### And how to refactor your life around this addiction
-#### Opium has never ceased to fascinate me
+# Coming out as an addict
+# And how to refactor your life around this addiction
+
+##### Opium has never ceased to fascinate me
 
 The more I read about this drug, the more light it throws on how it shaped the politics of the last Millenium. China is in the news for all the wrong reasons in 2020. But did you know that it was the victim of two Opium wars ?
 Yes, a war over a drug. 
@@ -141,7 +142,7 @@ I don't want to delve too deep into my own problems. You, the reader, are not he
 I cannot replace my info consumption addiction. The cues are still there. My job as a web developer and my hobby of quizzing ensure that I have to constantly sift through new information. I had to keep my phone switched off for 3 hours to draft this article but I cannot keep it off forever. 
 What I intend to do is attack the cues and the rewards in such a way that it nudges my cravings and actions towards long term gains instead over short
 That means
-- outcome independent work
+- outcome-independent work
   - blog as outlet
   - not for money
   - 
