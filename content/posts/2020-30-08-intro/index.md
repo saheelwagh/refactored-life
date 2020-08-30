@@ -1,7 +1,7 @@
 ---
 title: Introducing Refactored Life.
 author: Saheel Wagh
-date: 2020-08-21
+date: 2020-08-30
 hero: ./images/header.jpg
 excerpt: Coming out as an addict and how I intend to achieve success.
 ---
