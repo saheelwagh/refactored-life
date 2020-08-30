@@ -186,7 +186,7 @@ Summarised into three steps :
 I shall unravel the journey along this blog through my rustic writing. My original plan was to generate a proper content strategy, come up with enticing teasers and then publish this post containing those teasers. That is not how life works. Mike Tyson articulated it better than anyone : Everybody has a plan until they get punched in the mouth. 
 ### The most insightful book I've read :
 
-One of my all-time favourite books: How to fail at almost everything and still win big is penned by Scott Adams, the creator of a popular comic strip 'Dilbert'. In the book Scott lays out a model of success by reverse engineering his life.
+One of my all-time favourite books: 'How to Fail at Almost Everything and Still Win Big' is penned by Scott Adams, the creator of a popular comic strip 'Dilbert'. In the book Scott lays out a model of success by reverse engineering his life.
 
 #### Sucees Model
 
