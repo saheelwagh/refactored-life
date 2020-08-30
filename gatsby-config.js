@@ -1,21 +1,21 @@
 module.exports = {
   siteMetadata: {
     title: `Refactored Life`,
-    name: `Refactored Life`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    name: `Saheel Wagh's blog`,
+    siteUrl: `https:/refactored.life`,
+    description: `Refactored Life: Shape your life to conquer the digital world.`,
     hero: {
-      heading: `Refactored Life: Shape your life to conquer the digital world.`,
+      heading: `Conquering the digital world`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/saheelwagh`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/saheelwagh`,
       },
       {
         name: `instagram`,
@@ -26,8 +26,8 @@ module.exports = {
         url: `https://www.linkedin.com/company/narative/`,
       },
       {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        name: `Medium`,
+        url: `https://medium.com/@codingtigerhiddenbugs`,
       },
     ],
   },
