@@ -2,14 +2,11 @@
 title: Introducing Refactored Life.
 author: Saheel Wagh
 date: 2020-08-21
-hero: ./images/hero.jpg
+hero: ./images/header.jpg
 excerpt: Coming out as an addict and how I intend to achieve success.
 ---
 
 ###### Coming out as an addict and an attempt to rebuild my life
-
-
-
 
 # Opium has never ceased to fascinate me
 
@@ -28,7 +25,8 @@ To understand its effects better let us take a closer look home
 
 ![jahangir](images/jahangir.jpeg)
 
-This is Jahangir, the fourth Mughal Emperor.  The Mughal dynasty ruled over virtually all of India. All rulers of this dynasty were males, with no record of any significant achievements by any woman associated with the court (plenty of documented atoricties by the Mughals against women all over India but more on that in some other post). 
+###### This is Jahangir, the fourth Mughal Emperor.  
+The Mughal dynasty ruled over virtually all of India. All rulers of this dynasty were male, with no record of any significant achievements by any woman associated with the court (plenty of documented attrocities by the Mughals against women all over India but more on that in some other post). 
 
 During Jahangir's reign however, a lady had a de facto control over all functioning for a large time period. How ? you may ask. It was because Emperor Jahangir was so addicted to Opium and alcohol that he was not in a condition to take any decisions. His wife Nur Jahan controlled all preceding. Since there's no record of a collapse of the empire, we'll assume she did a good job.
 
@@ -82,7 +80,7 @@ Addictives by very design are meant to provide you with a reward that is
 2. Very short term
 3. Cognitively non-demanding to obtain.
 
-### Some examples
+##### Some examples
 1. Likes
 2. Streak count
 3. Social validation in group chats
@@ -110,13 +108,15 @@ They are constantly innovating new strategies to keep you tied to their platform
 
 They are product designers.
 
-The only way to keep us  hooked is to get us addicted to their product's offering. And all modern product offerings boild down to one thing:
+The only way to keep us  hooked is to get us addicted to their product's offering. And all modern product offerings boil down to one thing:
 
 
 #### We're being made addicted to : Information
 
 
 ###### Thanks to the internet, information is now more easily available than any point in history. 
+
+
 With this abundance comes an array of options to spend your time pretending that you are  learning something of value. 
  
 
@@ -124,19 +124,19 @@ With this abundance comes an array of options to spend your time pretending that
 
 ### My addiction story
 
-I am not really addicted  to social media.I used to be back when I newly discovered this digital world. Over time I realised it is not conducive for myy growth. I was succesful in gradually cutting down social media usage.
+I am no longer addicted to social media. Over time I realised it is not conducive for my growth. I was successful in gradually cutting down social media usage.
  
-But I did not just eliminate it. I replaced it with mindless learning.In my professional life and my passion fields I started latched on to every new tutorial that came out, every new article that got published. I was addicted to consuming information.
+But I did not just eliminate it. I replaced it with another compulsive habit : mindless learning.In my professional life and my passion fields I started latching on to every new tutorial that came out, every new article that got published. I was addicted to consuming information.
 
 Information consumption isn't inherently bad. One would argue that time spent learning is hardly wasted. But there is no justification to the time you invest learning something until you have something valuable to show for it.
 
 And this lack of presentable evidence of growth has been my biggest source of frustration for the last two years. I have never been one to chase superficial rewards or achievements. I carry an in-built tendency to play the long game instead of seeking short term gains (I will put it down to good parenting and perhaps genetics).
 
- But over the last two years some events have occurred which have shown me the value of time. I have lost some dear ones, nearly lost others, and theese experiences taught me one important lesson :
+ But over the last two years some events have occurred which have shown me the value of time. I have lost some dear ones, nearly lost others, and these experiences taught me one important lesson :
 
 >> Your life's most important metric is the impact you have on people around you.
 
-Here's some traits I love of this metric:
+Some traits that I love of this metric:
 
 1. It is independent of your financial status .
 2. Your age is irrelevant.
@@ -151,7 +151,7 @@ However, these resources are finite.
 
 After a while you stop being valuable to others. You have to spend an increasing amount of time on yourself and your own endeavours. And your intellect/EQ is dependent on your skillset. I realised that passive knowledge was not helping me in either of the two factors. 
 
-I wasn't progressing in life. I was only adding more rote learning to my brain. In other words I was becoming an ultimate disciple of something that I despise from the bottom of my heart : Indian education system.
+I wasn't progressing in life. I was only adding more rote learning to my brain. In other words I was becoming an ultimate disciple of something that I despise from the bottom of my heart : The Indian Education System.
 
 
 I had to get rid of this addiction and start producing outcomes. I had to refactor my life.
@@ -174,18 +174,19 @@ If you've read this far , you now know the reasoning behind the naming of this b
 
 
 ### My plan to tackle
-I cannot eliminate my information  consumption addiction. All The cues are still there . My job as a web developer and my hobby of quizzing ensure that I have to constantly sift through new information. But I can grab this addiction right by its cues and bend it to will. 
+I cannot eliminate my information  consumption addiction. The cues are still sprinkled across my professional walk of life . My job as a web developer and my hobby of quizzing ensure that I have to constantly sift through new information. But I can grab this addiction right by its cues and bend it to will. 
 What I intend to do is attack the cues and the rewards in such a way that it nudges my cravings and actions towards long term gains instead of short term.
 
-That means :
+Summarised into three steps :
 
 1. Forming a knowledge base and adding only that information to it which aid my goals. Which brings me to point number two:
-2.  Have definite long and medium term goals.
+2.  Have definite long and medium-term goals.
 3.  Start processing information and producing tangible output (like this blog)
 
-### a booky formula for **success**
+I shall unravel the journey along this blog through my rustic writing. My original plan was to generate a proper content strategy, come up with enticing teasers and then publish this post containing those teasers. That is not how life works. Mike Tyson articulated it better than anyone : Everybody has a plan until they get punched in the mouth. 
+### The most insightful book I've read :
 
-One of my all time favourite books: How to fail at almost everything and still win big is penned by Scott Adams, the creator of popular comic strip Dilbert. In the book Scott lays out a model of success by reverse engineering his life.
+One of my all-time favourite books: How to fail at almost everything and still win big is penned by Scott Adams, the creator of a popular comic strip 'Dilbert'. In the book Scott lays out a model of success by reverse engineering his life.
 
 #### Sucees Model
 
@@ -195,13 +196,13 @@ One of my all time favourite books: How to fail at almost everything and still w
 
 ###### 1.  Self-help tips
 
-I have read over an average, a book a month since 2017. I vaguely remember the useful bits of those. Starting August 2020 I have committed myself to revisiting those ideas and apply them to my life. But I do not want to keep those to myself. I shall be sharing the very best ideas here. I will pair those with few actionable steps. After all, self-help tips without any implementation is just intellectual porn.
+I have read over an average, a book a month since 2017. I vaguely remember the useful bits of those. Starting August 2020 I have committed myself to revisiting those ideas and apply them to my life. But I do not want to keep those to myself. I shall be sharing the very best ideas here, but only if I can pair those with few actionable steps. After all, self-help tips without any implementation is just intellectual porn.
 
-######  2. Guides on how to succeed in the digital economy.
+######  2. Guidance on how to succeed in the digital economy.
 
-I shall not claim any authority over this topic until I generate a meaningful source of income. However I have spent a tremendos amount of time analyzing successful (and spectacularly unsuccessful) people. Some patterns have repeatedly emerged out of these studies. I'll be rigorously subjecting some guinea pigs (mostly myself) to these patterns in the context of the modern economy and document the benefits and disadvantages of this process. I hope that in my endeavour to chart my own path to success I also leave breadcrumbs for others to follow. 
+I shall not claim any authority over this topic until I generate a meaningful source of income. However I have spent a tremendous amount of time analyzing successful (and spectacularly unsuccessful) people. Some patterns have repeatedly emerged out of these studies. I'll be rigorously subjecting some guinea pigs (mostly myself) to these patterns in the context of the modern economy and document the benefits and disadvantages of this process. I hope that in my endeavour to chart my own path to success I also leave breadcrumbs for others to follow. 
 
-#### 3. High-level overview of programming concepts
+##### 3. High-level overview of programming concepts
 
 Just like refactoring there are many other paradigms in computer science that were adapted from real life. By converse logic these are applicable to real life. I shall strive to break down these concepts in such a way that even a layman understands them, hopefully deep enough to apply in their lives.
 
