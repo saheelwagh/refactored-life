@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Refactored Life`,
-    name: `Saheel Wagh's blog`,
+    name: `Saheel Wagh`,
     siteUrl: `https:/refactored.life`,
     description: `Refactored Life: Shape your life to conquer the digital world.`,
     hero: {
