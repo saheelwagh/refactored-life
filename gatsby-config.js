@@ -25,10 +25,6 @@ module.exports = {
         name: `linkedin`,
         url: `https://www.linkedin.com/saheelwagh/`,
       },
-      {
-        name: `Medium`,
-        url: `https://medium.com/@codingtigerhiddenbugs`,
-      },
     ],
   },
   plugins: [
