@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https:/refactored.life`,
     description: `Refactored Life: Shape your life to conquer the digital world.`,
     hero: {
-      heading: `Conquering the digital world`,
+      heading: `Refactored Life : Tiny changes; Big wins`,
       maxWidth: 652,
     },
     social: [
