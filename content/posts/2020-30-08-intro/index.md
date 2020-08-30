@@ -221,3 +221,6 @@ This is an outlet for the voices inside my head.
 This is a journey of self-discovery.
 
 This is my life, refactored.
+
+To get notified when a new article is out, click
+[Here](https://saheel1.typeform.com/to/ZDGi5j7X)
