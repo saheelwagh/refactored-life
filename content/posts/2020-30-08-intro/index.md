@@ -36,7 +36,7 @@ If a king with access to vast riches, numerous concubines and unlimited power co
 Our society is under  a similar attack. We're being fed something more addictive than opium. This substance is
 
 1. Easily available to everyone
-2. Cosumable throughout the day
+2. Consumable throughout the day
 3. Totally harmless in appearance.  
 
 
@@ -161,7 +161,7 @@ Refactoring is one of my favourite words from computer science. For those unawar
 > Refactoring
   >> Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior. At its heart is a series of small behavior preserving transformations.
 
-I'm in constant awe of how relatable computer science terminology is to real life. Relating the aboce definition to my life :
+I'm in constant awe of how relatable computer science terminology is to real life. Relating the above definition to my life :
 
 - If I am to instill positive changes in my life, I need a disciplined approach. Randomly trying out multiple techniques won't make the cut.
 - These changes have to be small and incremental for them to stick.
@@ -188,7 +188,7 @@ I shall unravel the journey along this blog through my rustic writing. My origin
 
 One of my all-time favourite books: 'How to Fail at Almost Everything and Still Win Big' is penned by Scott Adams, the creator of a popular comic strip 'Dilbert'. In the book Scott lays out a model of success by reverse engineering his life.
 
-#### Sucees Model
+#### Suceess Model
 
 ![Success_model](images/sucess.png)
 
