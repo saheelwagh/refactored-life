@@ -1,5 +1,5 @@
 ---
-title: Introducing Refactored Life.
+title: Introducing Refactored Life
 author: Saheel Wagh
 date: 2020-08-30
 hero: ./images/header.jpg
