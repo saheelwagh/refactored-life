@@ -1,7 +1,7 @@
 ---
 title: Breaking Up with Comfort Zone
 author: Saheel Wagh
-date: 2020-22-09
+date: 2020-09-21
 hero: ./images/hero.jpg
 excerpt: An open letter.
 ---
@@ -9,7 +9,7 @@ excerpt: An open letter.
 
 ## Dear Comfort Zone
 
-Thank you for keeping me safe from danger. Danger that  existed exclusively in my mind. Danger that, as it tuned out I should have confronted, faced and conquered. Danger that would have transformed me from a boy to a man. 
+Thank you for keeping me safe from danger. Danger that existed exclusively in my mind. Danger that, as it tuned out I should have confronted, faced and conquered. Danger that would have transformed me from a boy to a man. 
 
 Thank you for not letting me take risks. Risks that my peers undertook, battled against and won. Risks that helped them design a life of their dreams. A life that lets them take on more rewarding risks. 
 
