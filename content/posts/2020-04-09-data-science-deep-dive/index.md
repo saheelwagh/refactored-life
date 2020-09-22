@@ -15,29 +15,29 @@ DataCamp’s lessons are bite-sized so you can learn in a way that fits your sch
 
 ## Whats' on offer ?
 Tons of premium content covering
-- Python
-- R
-- Scikit-learn
-- Pandas
-- Numpy
-- Tableau
-- PowerBI
-- Data Science Theory
-- Machine Learning Theory
-- Dep learning
-- and more!
+  Python
+  R
+  Scikit-learn
+  Pandas
+  Numpy
+  Tableau
+  PowerBI
+  Data Science Theory
+  Machine Learning Theory
+  Dep learning
+  and more!
 
 ### This content is normally locked behind a paid membership through the following plans :
 #### standard
-    - $13 per month
-    - 334 courses
-    - 51 skill tracks
-    - skill assesments
-    - community chat
+  $13 per month
+  334 courses
+  51 skill tracks
+  skill assesments
+ community chat
 premium
-    - 83 projects
-    - tableau, powerbi, oracle
-    - live sessions
+ 83 projects
+  tableau, powerbi, oracle
+  live sessions
 
 ## How to make the best use of this content ?
 
@@ -98,8 +98,8 @@ Or
 ### If you already know the programming basics and  know which libraries are used
 Pursue the Machine Learning Fundamentals Skill [track](https://learn.datacamp.com/skill-tracks/machine-learning-fundamentals-with-python?version=1)
 There are similar skill tracks in
-    - R Programming 
-    - Data Manipulation
-    - NLP
-    - Statistics
-    - Applied Finance
+  R Programming 
+Data Manipulation
+  NLP
+Statistics
+  Applied Finance
